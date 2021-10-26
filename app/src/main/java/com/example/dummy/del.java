@@ -1,4 +1,4 @@
 package com.example.dummy;
 
-public class demo {
+public class del {
 }
